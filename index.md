@@ -9,7 +9,7 @@
 `
 [Github Page](https://github.com/BobaMilkTee/CSE110)
 
-[section link](# HEADING)
+[section link](#-HEADING)
 
 - This is
 - an unordered
